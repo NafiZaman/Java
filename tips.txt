@@ -1,0 +1,5 @@
+Wrap dynamically allocated variables with try-catch blocks.
+Dont define too many variables.
+Make sure to use all the variables in your program.
+Don't forget to close and opened .txt file.
+Avoid declaring public variables.

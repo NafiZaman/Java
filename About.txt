@@ -1,0 +1,10 @@
+Optic++ is a user friendly software for beginner programmers to
+write optimized C++ code.It offers a nice working environment 
+for its users. Its the optimal solution for any developer and 
+the development team.
+
+Thank You,
+The Optic++ Team.
+
+Programmers:Mashruk Kabir, Nafi Uz Zaman.
+Designer: Sajjad Hossain.

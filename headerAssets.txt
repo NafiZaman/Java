@@ -1,0 +1,5 @@
+iostream cin,cout,cerr,clog
+iomanip setw,setprecision,setfill
+ctime difftime,difftime,mktime,time
+cstdlib srand,rand
+fstream ifstream,ofstream
